@@ -1,6 +1,6 @@
 # Main View
 
-The main view is the default view normally used during radio operation. This view displays information such as the model name, trim positions, transmitter battery voltage, flight mode, receiver signal strength, and Timers. A clock is also displayed in the center of the lower portion of all screens. There are five main view screens.
+Основной вид - это вид по умолчанию, обычно используемый во время работы радиостанции. В этом представлении отображается такая информация, как название модели, положения дифферента, напряжение батареи передатчика, режим полета, уровень сигнала приемника и таймеры. Часы также отображаются в центре нижней части всех экранов. Есть пять основных обзорных экранов.
 
 <div>
 
